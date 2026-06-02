@@ -21,13 +21,13 @@ I have worked on a wide range of projects, including predictive modeling, natura
 <br><br>
 I'm motivated by a common dedication to excellence as a collaborator and team member. I do best in settings where a range of opinions come together to inspire creativity and produce significant results. I make sure my skill set stays at the forefront of industry trends by consistently keeping up with the newest developments in cloud computing, DevOps, and data science.
 <b><b>
-I am dedicated to making an impact, with a focus on data science and machine learning. My portfolio, featuring my work and contributions, can be viewed on GitHub *(here, under [repositories](https://github.com/Kiprotich2019?tab=repositories))*. I am appreciative of chances to advance professionally, demonstrate my knowledge, and demonstrate my dedication to leaving a lasting impression. If you share my vision and wish to collaborate, feel free to reach out at 📫 kiproticharon2019@gmail.com
+I am dedicated to making an impact, with a focus on data science and machine learning. My portfolio, featuring my work and contributions, can be viewed on GitHub *(here, under [repositories](https://github.com/KiprotichTerer?tab=repositories))*. I am appreciative of chances to advance professionally, demonstrate my knowledge, and demonstrate my dedication to leaving a lasting impression. If you share my vision and wish to collaborate, feel free to reach out at 📫 aronkiprotichterer@gmail.com
 
 
 #### Professional Links:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/aron-kiprotich/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/Kiprotich2019)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/KiprotichTerer)
 
 
 ---
