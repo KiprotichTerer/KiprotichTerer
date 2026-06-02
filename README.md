@@ -20,7 +20,7 @@ I am a passionate data science and machine learning engineer that enjoys using c
 I have worked on a wide range of projects, including predictive modeling, natural language processing, image recognition, recommendation systems, and DevOps automation. I am comfortable working with large datasets and developing scalable, cloud-based solutions that can handle complex data processing and analysis.
 <br><br>
 I'm motivated by a common dedication to excellence as a collaborator and team member. I do best in settings where a range of opinions come together to inspire creativity and produce significant results. I make sure my skill set stays at the forefront of industry trends by consistently keeping up with the newest developments in cloud computing, DevOps, and data science.
-<b><b>
+<br><br>
 I am dedicated to making an impact, with a focus on data science and machine learning. My portfolio, featuring my work and contributions, can be viewed on GitHub *(here, under [repositories](https://github.com/KiprotichTerer?tab=repositories))*. I am appreciative of chances to advance professionally, demonstrate my knowledge, and demonstrate my dedication to leaving a lasting impression. If you share my vision and wish to collaborate, feel free to reach out at 📫 aronkiprotichterer@gmail.com
 
 
